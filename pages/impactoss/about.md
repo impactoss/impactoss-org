@@ -120,15 +120,6 @@ Please try out IMPACT OSS and all its features using our online demo. You can ex
 
 <a class="button medium radius" target="_blank" href="https://demo.impactoss.org">Launch demo</a>
 
-
-## Other configurations for Small States
-
-Further demo installations, provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html) and in particular aimed at Small States, are available at:
-
-<strong><a target="_blank" href="https://demo-rights.impactoss.org">demo-rights.impactoss.org</a></strong> (Human Rights implementation only, no SDGs)
-
-<strong><a target="_blank" href="https://demo-sdgs.impactoss.org">demo-sdgs.impactoss.org</a></strong> (Human Rights and SDG implementation)
-
 ## Personal demo
 
 We will happily give you an introduction and schedule a personal demo with you.
