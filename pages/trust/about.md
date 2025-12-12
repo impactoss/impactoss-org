@@ -27,10 +27,10 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
 
 #### Who we are
 
-# Our Board of Trustees
+# Our Team
 
 <div class="row">
-  <div class="large-3 columns">
+  <div class="large-4 columns">
     <p>
       <img src="{{site.urlimg}}moana.png">
     </p>
@@ -49,7 +49,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-3 columns">    
+  <div class="large-4 columns">    
     <p>
         <img src="{{site.urlimg}}maria.png">
     </p>
@@ -68,7 +68,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-3 columns">      
+  <div class="large-4 columns">      
     <p>
         <img src="{{site.urlimg}}timo.png">
     </p>
@@ -87,7 +87,9 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-    <div class="large-3 columns">
+</div>
+<div class="row">
+  <div class="large-4 columns">
     <p>
         <img src="{{site.urlimg}}edith.png">
     </p>
@@ -102,6 +104,44 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/edith-woischin-3127b865">
+        LinkedIn
+      </a>
+    </p>
+  </div>
+  <div class="large-4 columns">
+    <p>
+        <img src="{{site.urlimg}}ronja.jpg">
+    </p>
+    <h4>
+      Ronja Ievers
+    </h4>
+    <h6>
+      Trustee
+    </h6>
+    <p>
+      Ronja focuses on building projects and partnerships that create impact and improve community outcomes. She bridges the government and community sectors, drawing on many years of experience in both. Ronja led the development of Aotearoa New Zealand’s first cross-sector People’s Report on the Sustainable Development Goals and is passionate about strengthening connections between data, people, and community aspirations. Her practice reflects a strong commitment to sustainable development, human rights, and accountability.
+    </p>
+    <p>
+      <a target="_blank" href="http://linkedin.com/in/ronja-ievers">
+        LinkedIn
+      </a>
+    </p>
+  </div>
+  <div class="large-4 columns">
+    <p>
+        <img src="{{site.urlimg}}lisa.png">
+    </p>
+    <h4>
+      Lisa Lopeti
+    </h4>
+    <h6>
+      Executive Director
+    </h6>
+    <p>
+      Lisa Lopeti is deeply committed to social justice and the advancement of human rights, equity, social impact, and innovation in Aotearoa New Zealand and internationally. She brings over 16 years of experience across the non-profit and community sector, including work with international NGOs such as Amnesty International and various local charitable trusts. Throughout her career, Lisa has held a range of leadership, management, consultancy, and governance roles.
+    </p>
+    <p>
+      <a target="_blank" href="https://www.linkedin.com/in/lisalopeti/">
         LinkedIn
       </a>
     </p>
