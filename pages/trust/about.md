@@ -38,7 +38,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Moana Eruera
     </h4>
     <h6>
-      Chairperson, Founding Trustee
+      Chairperson, Trustee
     </h6>
     <p>
       Moana is a senior human rights specialist with a focus on national human rights implementation. When working for the <a href="https://hrc.co.nz" target="_blank" tile="NZ Human Rights Commission">NZ Human Rights Commission</a> he was responsible for the NZ National Plan of Action that can be regarded as a conceptual ancestor of IMPACT OSS.
@@ -76,7 +76,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Timo Franz
     </h4>
     <h6>
-      Treasurer, Founding Trustee
+      Treasurer, Trustee
     </h6>
     <p>
       Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer at <a href="http://dumpark.com" target="_blank" tile="Dumpark Information Design">Dumpark</a> he has contributed significantly to the concept and development of IMPACT OSS.
@@ -97,7 +97,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Edith Woischin
     </h4>
     <h6>
-      Founding Trustee
+      Trustee
     </h6>
     <p>
       As an interaction and information designer, Edith looks after all the design outputs of the Trust. She is a director and the lead designer of <a href="http://dumpark.com" target="_blank" tile="Dumpark Information Design">Dumpark</a> and designed the User Interface of IMPACT OSS as well as the custom themes for its Samoan and New Zealand installations.
@@ -110,7 +110,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
   </div>
   <div class="large-4 columns">
     <p>
-        <img src="{{site.urlimg}}ronja.jpg">
+        <img src="{{site.urlimg}}ronja.png">
     </p>
     <h4>
       Ronja Ievers
