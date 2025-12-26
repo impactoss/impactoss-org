@@ -11,8 +11,8 @@ header_title: Privacy Policy
 ## Website Owner and Data Controller
 
 Impact Open Source Software Trust <br>
-18 Tennyson Street <br>
-Wellington 6011 <br>
+31 Houghton Bay Road <br>
+Wellington 6023 <br>
 New Zealand
 
 Owner contact email: [privacy@impactoss.org](mailto:privacy@impactoss.org)
