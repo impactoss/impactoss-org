@@ -119,7 +119,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Trustee
     </h6>
     <p>
-      Ronja focuses on building projects and partnerships that create impact and improve community outcomes. She bridges the government and community sectors, drawing on many years of experience in both. Ronja led the development of Aotearoa New Zealand’s first cross-sector People’s Report on the Sustainable Development Goals and is passionate about strengthening connections between data, people, and community aspirations. Her practice reflects a strong commitment to sustainable development, human rights, and accountability.
+      Ronja focuses on building projects and partnerships that create impact and improve community outcomes. She bridges the government and community sectors, drawing on experience in both. Ronja led the development of Aotearoa New Zealand’s first cross-sector People’s Report on the Sustainable Development Goals and is passionate about strengthening connections between data, people, and community aspirations.
     </p>
     <p>
       <a target="_blank" href="http://linkedin.com/in/ronja-ievers">
@@ -138,7 +138,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Executive Director
     </h6>
     <p>
-      Lisa Lopeti is deeply committed to social justice and the advancement of human rights, equity, social impact, and innovation in Aotearoa New Zealand and internationally. She brings over 16 years of experience across the non-profit and community sector, including work with international NGOs such as Amnesty International and various local charitable trusts. Throughout her career, Lisa has held a range of leadership, management, consultancy, and governance roles.
+      Lisa Lopeti is deeply committed to social justice and the advancement of human rights in Aotearoa New Zealand and internationally. She brings over 16 years’ experience across leadership, management, consultancy, and governance roles within the non-profit sector, including work with international NGOs such as Amnesty International and local charitable trusts.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/lisalopeti/">
