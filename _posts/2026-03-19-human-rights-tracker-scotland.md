@@ -1,6 +1,6 @@
 ---
 title: "Human Rights Tracker Scotland launched"
-subheadline: "Scotland’s implementation of IMPACT OSS, 12/3/2026"
+subheadline: "Scotland’s implementation of IMPACT OSS"
 teaser: >-
   Last week the Scottish Government launched the Human Rights Tracker Scotland, a custom version of IMPACT OSS we developed to bring together over 500 recommendations from six UN treaty bodies relevant to the devolved policy areas in Scotland.
 lead: >-
