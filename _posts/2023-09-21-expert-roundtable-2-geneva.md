@@ -20,7 +20,7 @@ Our trustee and technical lead Timo Franz moderated the panel Navigating the Rol
 
 - Geneva Human Rights Platform: [archives.geneva-academy.ch/geneva-humanrights-platform.html](https://archives.geneva-academy.ch/geneva-humanrights-platform.html) [_updated_]
 - Expert Roundtable recap: [archives.geneva-academy.ch/news/detail/642-digital-...](https://archives.geneva-academy.ch/news/detail/642-digital-human-rights-tracking-tools-and-databases-pioneering-discussions-at-the-expert-roundtable.html) [_updated_]
--  Office of the United Nations High Commissioner for Human Rights (OHCHR): [ohchr.org](https://www.ohchr.org)
+- Office of the United Nations High Commissioner for Human Rights (OHCHR): [ohchr.org](https://www.ohchr.org)
 
 
 _Image by Geneva Academy_
