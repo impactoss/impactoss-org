@@ -24,5 +24,5 @@ The Human Rights Monitor replaces the New Zealand National Plan of Action, also 
 - Human Rights Monitor New Zealand: [humanrights.govt.nz](https://humanrights.govt.nz)
 - Sadata (Samoa): [sadata.ws](https://sadata.ws)
 - IMPACT OSS: [impactoss.org/impactoss](https://impactoss.org/impactoss)
-- NZ Justice article: https://www.justice.govt.nz/justice-sector-policy/constitutional-issues-and-human-rights/human-rights/international-human-rights/new-zealands-human-rights-monitor
-- NZ Government press release on UPR: https://www.beehive.govt.nz/release/human-rights-recommendations-accepted
+- NZ Justice article: [www.justice.govt.nz/justice-sector-policy/constitutional-issues-and-human-rights/human-...](https://www.justice.govt.nz/justice-sector-policy/constitutional-issues-and-human-rights/human-rights/international-human-rights/new-zealands-human-rights-monitor)
+- NZ Government press release on UPR: [www.beehive.govt.nz/release/human-rights-recommendations-accepted](https://www.beehive.govt.nz/release/human-rights-recommendations-accepted)
