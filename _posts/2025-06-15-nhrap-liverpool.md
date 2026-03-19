@@ -1,6 +1,6 @@
 ---
 title: "IMPACT OSS featured at inaugural event of the Global Network on `NHRAP`"
-subheadline: "Expert Roundtable, 4/11/2024"
+subheadline: "Global Network on National Human Rights Action Planning, 4-6/6/2025"
 teaser: >-
   The University of Liverpool's School of Law and Social Justice hosted the inaugural event of the Global Network on National Human Rights Action Planning (NHRAP), welcoming over 88 delegates from 36 countries across government, civil society, national human rights institutions and academia, as well as OHCHR, UNDP and the Council of Europe.
 lead: >-
