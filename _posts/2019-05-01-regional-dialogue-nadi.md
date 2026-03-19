@@ -18,4 +18,4 @@ Timo spoke on IMPACT OSS and digital NMIRF platforms, highlighting the potential
 
 **Links**
 
-- [SPC RRRT](https://rrrt.spc.int)
+- SPC RRRT: [rrrt.spc.int](https://rrrt.spc.int)
