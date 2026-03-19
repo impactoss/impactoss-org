@@ -8,8 +8,8 @@ lead: >-
 author: tmfrnz
 layout: page-fullwidth
 published: true
-image_filename: 'nz-human-rights-monitor'
-image_thumb: 'nz-human-rights-monitor'
+image_filename: 'nz-human-rights-monitor.png'
+image_thumb: 'nz-human-rights-monitor.png'
 ---
 
 The [Human Rights Monitor]((https://humanrights.govt.nz) brings together recommendations from UN human rights mechanisms and tracks government actions to implement them. Justice Minister Paul Goldsmith described it as helping "to ensure transparency and accountability for our human rights commitments".
