@@ -10,10 +10,9 @@ layout: page-fullwidth
 published: true
 image_filename: 'ai-for-hr-professionals.jpg'
 image_thumb: 'ai-for-hr-professionals.jpg'
+image_caption: 'Image: ITU / CC BY-NC-SA 4.0'
 ---
 
 Through expert-led sessions and hands-on demonstrations, participants explored how AI and machine learning can enhance human rights monitoring, evidence-based policymaking and SDG tracking, while critically engaging with governance, ethical and data protection frameworks. Topics ranged from AI governance and technical foundations to ethics and practical case studies.
 
 Our trustee Timo Franz was invited as a speaker on the potential of digital solutions like [IMPACT OSS](https://impactoss.org/impactoss) and AI to address challenges in human rights monitoring and implementation.
-
-_Image by ITU_

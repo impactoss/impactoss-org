@@ -10,6 +10,7 @@ layout: page-fullwidth
 published: true
 image_filename: 'expert-roundtable-3-geneva.jpg'
 image_thumb: 'expert-roundtable-3-geneva.jpg'
+image_caption: 'Image: Geneva Academy'
 ---
 
 Building on the two previous roundtables ([1st](https://impactoss.org/blog/expert-roundtable-geneva/), [2nd](https://impactoss.org/blog/expert-roundtable-2-geneva/)), participants explored frameworks for standardised data formats, common protocols and sustainable funding models to enhance information-sharing across tools while preserving each tool's unique functionalities. A significant focus was placed on the dual role of AI and machine learning: their potential for streamlining data processing, automating tasks and generating predictive insights on one hand, the ethical and practical challenges of algorithmic bias, transparency, privacy and data security on the other.

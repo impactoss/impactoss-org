@@ -10,10 +10,9 @@ layout: page-fullwidth
 published: true
 image_filename: 'expert-roundtable-2-geneva.jpg'
 image_thumb: 'expert-roundtable-2-geneva.jpg'
+image_caption: 'Image: Geneva Academy'
 ---
 
 Building on the discussions from the [previous roundtable](https://impactoss.org/blog/expert-roundtable-geneva/), participants explored challenges and opportunities around three key themes: accessibility, sustainability, and interoperability. Accessibility discussions addressed open versus limited access, web accessibility for persons with disabilities, and multilingual support. Sustainability covered coordination in data collection, staff turnover, user adoption, and funding models. Interoperability focused on cooperation between tools and the potential of a less fragmented approach to human rights tracking.
 
 Our trustee and technical lead Timo Franz moderated the panel Navigating the Role of Artificial Intelligence and Machine Learning, emphasising the heightened responsibility that comes with adopting AI in the human rights domain.
-
-_Image by Geneva Academy_

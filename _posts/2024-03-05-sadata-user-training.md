@@ -10,6 +10,7 @@ layout: page-fullwidth
 published: true
 image_filename: 'sadata-user-training.jpg'
 image_thumb: 'sadata-user-training.jpg'
+image_caption: 'Image: SPC'
 ---
 
 The workshop, organised as part of SPC's PROJECT Governance, provided practical training on using [Sadata](https://sadata.ws) to manage and track Samoa's human rights, SDG and national development commitments.
@@ -20,5 +21,3 @@ Alongside the training, Sadata was updated to replace the previous national deve
 
 - Sadata: [sadata.ws](https://sadata.ws)
 - IMPACT OSS: [impactoss.org/impactoss](https://impactoss.org/impactoss)
-
-_Image by SPC_
