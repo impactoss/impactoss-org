@@ -4,7 +4,7 @@ subheadline: "Expert Roundtable, 14-15/9/2023"
 teaser: >-
   The Geneva Human Rights Platform and OHCHR co-organised a two-day 'Expert Roundtable on Digital Human Rights Tracking Tools and Databases' (DHRTTDs) in Geneva, bringing together more than 30 developers and users representing permanent missions, national ministries, international and regional organisations, national human rights institutions, civil society and academia.
 lead: >-
-  The ü(https://archives.geneva-academy.ch/geneva-humanrights-platform.html) and [OHCHR](https://www.ohchr.org) co-organised a two-day [Expert Roundtable on Digital Human Rights Tracking Tools and Databases (DHRTTDs)](https://archives.geneva-academy.ch/news/detail/642-digital-human-rights-tracking-tools-and-databases-pioneering-discussions-at-the-expert-roundtable.html) in Geneva, bringing together more than 30 developers and users representing permanent missions, national ministries, international and regional organisations, national human rights institutions, civil society and academia.
+  The [Geneva Human Rights Platform](https://archives.geneva-academy.ch/geneva-humanrights-platform.html) and [OHCHR](https://www.ohchr.org) co-organised a two-day [Expert Roundtable on Digital Human Rights Tracking Tools and Databases (DHRTTDs)](https://archives.geneva-academy.ch/news/detail/642-digital-human-rights-tracking-tools-and-databases-pioneering-discussions-at-the-expert-roundtable.html) in Geneva, bringing together more than 30 developers and users representing permanent missions, national ministries, international and regional organisations, national human rights institutions, civil society and academia.
 author: tmfrnz
 layout: page-fullwidth
 published: true
