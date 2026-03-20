@@ -1,5 +1,5 @@
 ---
-title: "Sadata and IMPACT OSS presented alongside other Digital Human Rights Tracking Tools and Databases"
+title: "Sadata and IMPACT OSS presented alongside other digital human rights tracking tools"
 subheadline: "Expert Roundtable, 18/10/2022"
 teaser: >-
   The Geneva Academy organised an expert roundtable 'De-mystifying digital human rights tracking tools and databases' as part of the '2022 Annual Conference of the Geneva Human Rights Platform', bringing together developers, administrators and users of existing digital tracking tools for human rights monitoring, implementation and follow-up.
