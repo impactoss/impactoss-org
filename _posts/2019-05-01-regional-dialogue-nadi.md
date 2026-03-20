@@ -1,5 +1,5 @@
 ---
-title: "IMPACT OSS presented at Pacific dialogue on NMIRFs"
+title: "IMPACT OSS presented at Pacific Dialogue on NMIRFs"
 subheadline: "Regional High-Level Dialogue, 11-12/4/2019"
 teaser: >-
   The Pacific Community's Regional Rights Resource Team (SPC RRRT) and the Universal Rights Group organised a regional high-level dialogue on National Mechanisms for Implementation, Reporting and Follow-Up (NMIRFs) in Nadi, Fiji.
