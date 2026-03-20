@@ -2,9 +2,9 @@
 title: "Presenting IMPACT OSS in Geneva"
 subheadline: "Interactive panel discussion, 26/11/2018"
 teaser: >-
-  The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel.
+  The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the 'Working Smarter for Human Rights: Are Digital Tools the Way Forward?' interactive panel.
 lead: >-
-  The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel.
+  The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the 'Working Smarter for Human Rights: Are Digital Tools the Way Forward?' interactive panel.
 author: tmfrnz
 layout: page-fullwidth
 published: true
@@ -16,4 +16,4 @@ We are very excited for the opportunity to present IMPACT OSS alongside [SIMORE]
 
 The event is organised by the Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group, and will look at how digital tools can help States, particularly Small States, more efficiently and effectively promote human rights and meet their human rights obligations and commitments.
 
-[Event details](https://www.universal-rights.org/events-detail/working-smarter-for-human-rights-are-digital-tools-the-way-forward/) 
+[Event details](https://www.universal-rights.org/events-detail/working-smarter-for-human-rights-are-digital-tools-the-way-forward/)
