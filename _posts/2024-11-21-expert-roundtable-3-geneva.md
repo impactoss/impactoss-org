@@ -4,7 +4,7 @@ subheadline: "Expert Roundtable, 4/11/2024"
 teaser: >-
   The Geneva Human Rights Platform, OHCHR and HURIDOCS co-organised the third Expert Roundtable on Digital Human Rights Tracking Tools and Databases (DHRTTDs), themed "Interoperability through Artificial Intelligence and Machine Learning", once more bringing together over 30 experts, including developers, AI specialists, policymakers and human rights practitioners.
 lead: >-
-  The Geneva Human Rights Platform, OHCHR and HURIDOCS co-organised the third Expert Roundtable on Digital Human Rights Tracking Tools and Databases (DHRTTDs), themed 'Interoperability through Artificial Intelligence and Machine Learning', once more bringing together over 30 experts, including developers, AI specialists, policymakers and human rights practitioners.
+  The Geneva Human Rights Platform, OHCHR and HURIDOCS co-organised the third 'Expert Roundtable on Digital Human Rights Tracking Tools and Databases' (DHRTTDs), themed 'Interoperability through Artificial Intelligence and Machine Learning', once more bringing together over 30 experts, including developers, AI specialists, policymakers and human rights practitioners.
 author: tmfrnz
 layout: page-fullwidth
 published: true
