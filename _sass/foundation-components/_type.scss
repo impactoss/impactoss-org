@@ -231,6 +231,7 @@ $align-class-breakpoints:
     }
 
     .lead { @include lead; }
+    .lead p { @include lead; margin-bottom: 0; }
 
     /* Default paragraph styles */
     p {
