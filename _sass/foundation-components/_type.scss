@@ -230,6 +230,8 @@ $align-class-breakpoints:
       img { border:none; }
     }
 
+    .lead { @include lead; }
+
     /* Default paragraph styles */
     p {
       font-family: $paragraph-font-family;
