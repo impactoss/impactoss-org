@@ -4,7 +4,7 @@ subheadline: "Expert Roundtable, 18/10/2022"
 teaser: >-
   The Geneva Academy organised an expert roundtable 'De-mystifying digital human rights tracking tools and databases' as part of the '2022 Annual Conference of the Geneva Human Rights Platform', bringing together developers, administrators and users of existing digital tracking tools for human rights monitoring, implementation and follow-up.
 lead: >-
-  The [Geneva Academy](https://geneva-academy.ch) organised an expert roundtable 'De-mystifying digital human rights tracking tools and databases' as part of the [2022 Annual Conference of the Geneva Human Rights Platform](https://archives.geneva-academy.ch/event/past-events/detail/349-2022-annual-conference-of-the-geneva-human-rights-platform.html) [_link updated_], bringing together developers, administrators and users of existing digital tracking tools for human rights monitoring, implementation and follow-up.
+  The [Geneva Academy](https://geneva-academy.ch) organised an expert roundtable 'De-mystifying digital human rights tracking tools and databases' as part of the [2022 Annual Conference of the Geneva Human Rights Platform](https://archives.geneva-academy.ch/event/past-events/detail/349-2022-annual-conference-of-the-geneva-human-rights-platform.html), bringing together developers, administrators and users of existing digital tracking tools for human rights monitoring, implementation and follow-up.
 author: tmfrnz
 layout: page-fullwidth
 published: true
