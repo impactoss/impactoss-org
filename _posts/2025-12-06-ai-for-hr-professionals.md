@@ -2,7 +2,7 @@
 title: "IMPACT OSS presented at AI training for human rights professionals"
 subheadline: "AI for Human Rights Professionals Training Course, 1-3/12/2025"
 teaser: >-
-  FNF Human Rights and AI for Good (ITU) co-organised a three-day professional training on Artificial Intelligence for Human Rights at the ITU in Geneva, bringing together 25 diplomats, NHRI representatives and NGO practitioners.
+  FNF Human Rights and AI for Good (ITU) co-organised a three-day professional training on 'AI for Human Rights Professionals' at the ITU in Geneva, bringing together 25 diplomats, NHRI representatives and NGO practitioners.
 lead: >-
   FNF Human Rights and AI for Good (ITU) co-organised a three-day professional training on Artificial Intelligence for Human Rights at the ITU in Geneva, bringing together 25 diplomats, NHRI representatives and NGO practitioners.
 author: tmfrnz
