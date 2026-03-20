@@ -1,5 +1,5 @@
 ---
-title: "Discussing Accessibility, Sustainability, and Interoperability of 'DHRTTDs'"
+title: "Discussing Accessibility, Sustainability, and Interoperability of DHRTTDs"
 subheadline: "Expert Roundtable, 14-15/9/2023"
 teaser: >-
   The Geneva Human Rights Platform and OHCHR co-organised a two-day Expert Roundtable on Digital Human Rights Tracking Tools and Databases (DHRTTDs) in Geneva, bringing together more than 30 developers and users representing permanent missions, national ministries, international and regional organisations, national human rights institutions, civil society and academia.
