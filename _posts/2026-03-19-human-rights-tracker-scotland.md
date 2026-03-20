@@ -4,7 +4,7 @@ subheadline: "Scotland’s implementation of IMPACT OSS"
 teaser: >-
   Last week the Scottish Government launched the Human Rights Tracker Scotland, a custom version of IMPACT OSS we developed to bring together over 500 recommendations from six UN treaty bodies relevant to the devolved policy areas in Scotland.
 lead: >-
-  Last week the Scottish Government launched the Human Rights Tracker Scotland, a custom version of IMPACT OSS we developed to bring together over 500 recommendations from six UN treaty bodies relevant to the devolved policy areas in Scotland.
+  Last week the Scottish Government launched the [Human Rights Tracker Scotland](https://humanrightstracker.gov.scot), a custom version of [IMPACT OSS](https://impactoss.org/impactoss) we developed to bring together over 500 recommendations from six UN treaty bodies relevant to the devolved policy areas in Scotland.
 author: tmfrnz
 layout: page-fullwidth
 published: true

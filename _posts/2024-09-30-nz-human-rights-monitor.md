@@ -4,7 +4,7 @@ subheadline: "New Zealand’s implementation of IMPACT OSS"
 teaser: >-
   On 27 September 2024, the New Zealand Government launched the Human Rights Monitor, a custom version of IMPACT OSS, coinciding with New Zealand's acceptance of recommendations from its fourth Universal Periodic Review in Geneva.
 lead: >-
-  On 27 September 2024, the New Zealand Government launched the Human Rights Monitor, a custom version of IMPACT OSS, coinciding with New Zealand's acceptance of recommendations from its fourth Universal Periodic Review in Geneva.
+  On 27 September 2024, the New Zealand Government launched the [Human Rights Monitor](https://humanrights.govt.nz), a custom version of [IMPACT OSS](https://impactoss.org/impactoss), coinciding with New Zealand's acceptance of recommendations from its fourth Universal Periodic Review in Geneva.
 author: tmfrnz
 layout: page-fullwidth
 published: true
