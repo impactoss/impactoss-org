@@ -15,3 +15,5 @@ published: true
 We are thrilled that our trustees Edith Woischin and Timo Franz were given the chance to participate at this three-day event and learn from the experiences shared across more than 40 national human rights action plans, covering trends, developments and challenges spanning 30 years of human rights action planning across all five continents.
 
 Representing the [Pacific Community](https://spc.int), Ashley Bowe presented a case study of [IMPACT OSS](https://impactoss.org/impactoss) on the panel "Digitalisation and NHRAPing" where Timo served as a discussant.
+
+_Image: Liverpool University_
