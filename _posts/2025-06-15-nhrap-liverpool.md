@@ -7,6 +7,8 @@ lead: >-
   The University of Liverpool's School of Law and Social Justice hosted the [inaugural event of the Global Network on National Human Rights Action Planning (NHRAP)](https://www.liverpool.ac.uk/law/news/stories/title%2C1519691%2Cen.php), welcoming over 88 delegates from 36 countries across government, civil society, national human rights institutions and academia, as well as OHCHR, UNDP and the Council of Europe.
 author: tmfrnz
 layout: page-fullwidth
+image_filename: 'nhrap-liverpool.jpg'
+image_thumb: 'nhrap-liverpool.jpg'
 published: true
 ---
 
