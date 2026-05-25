@@ -30,25 +30,6 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
 # Our Team
 
 <div class="row">
-  <div class="large-4 columns">
-    <p>
-      <img src="{{site.urlimg}}moana.png">
-    </p>
-    <h4>
-      Moana Eruera
-    </h4>
-    <h6>
-      Chairperson, Trustee
-    </h6>
-    <p>
-      Moana is a senior human rights specialist with a focus on national human rights implementation. When working for the <a href="https://hrc.co.nz" target="_blank" tile="NZ Human Rights Commission">NZ Human Rights Commission</a> he was responsible for the NZ National Plan of Action that can be regarded as a conceptual ancestor of IMPACT OSS.
-    </p>
-    <p>
-      <a target="_blank" href="https://www.linkedin.com/in/moana-john-eruera-0768946">
-        LinkedIn
-      </a>
-    </p>
-  </div>
   <div class="large-4 columns">    
     <p>
         <img src="{{site.urlimg}}maria.png">
@@ -57,7 +38,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Maria Fernanda Maxil Platas
     </h4>
     <h6>
-      Secretary, Trustee
+      Chairperson, Trustee
     </h6>
     <p>
       Maria is a Senior Policy Analyst who currently works in the area of protection of democracy. She worked in the area of human rights for many years and is passionate about monitoring and implementation of international human rights obligations to enhance countries' human rights record.
@@ -76,13 +57,32 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Timo Franz
     </h4>
     <h6>
-      Treasurer, Trustee
+      Secretary, Trustee, CTO
     </h6>
     <p>
       Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer at <a href="http://dumpark.com" target="_blank" tile="Dumpark Information Design">Dumpark</a> he has contributed significantly to the concept and development of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/tmfrnz">
+        LinkedIn
+      </a>
+    </p>
+  </div>
+  <div class="large-4 columns">
+    <p>
+        <img src="{{site.urlimg}}ronja.png">
+    </p>
+    <h4>
+      Ronja Ievers
+    </h4>
+    <h6>
+      Treasurer, Trustee
+    </h6>
+    <p>
+      Ronja focuses on building projects and partnerships that create impact and improve community outcomes. She bridges the government and community sectors, drawing on experience in both. Ronja led the development of Aotearoa New Zealand’s first cross-sector People’s Report on the Sustainable Development Goals and is passionate about strengthening connections between data, people, and community aspirations.
+    </p>
+    <p>
+      <a target="_blank" href="http://linkedin.com/in/ronja-ievers">
         LinkedIn
       </a>
     </p>
@@ -110,25 +110,6 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
   </div>
   <div class="large-4 columns">
     <p>
-        <img src="{{site.urlimg}}ronja.png">
-    </p>
-    <h4>
-      Ronja Ievers
-    </h4>
-    <h6>
-      Trustee
-    </h6>
-    <p>
-      Ronja focuses on building projects and partnerships that create impact and improve community outcomes. She bridges the government and community sectors, drawing on experience in both. Ronja led the development of Aotearoa New Zealand’s first cross-sector People’s Report on the Sustainable Development Goals and is passionate about strengthening connections between data, people, and community aspirations.
-    </p>
-    <p>
-      <a target="_blank" href="http://linkedin.com/in/ronja-ievers">
-        LinkedIn
-      </a>
-    </p>
-  </div>
-  <div class="large-4 columns">
-    <p>
         <img src="{{site.urlimg}}lisa.png">
     </p>
     <h4>
@@ -146,6 +127,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
+  <div class="large-4 columns"></div>
 </div>
 
 ---
