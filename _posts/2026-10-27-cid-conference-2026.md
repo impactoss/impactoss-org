@@ -9,6 +9,8 @@ lead: >-
 author: tmfrnz
 layout: page-fullwidth
 published: true
+image_filename: 'CID-Conference-2026.png'
+image_thumb: 'CID-Conference-2026.png'
 ---
 
 Across two days of discussions on the changing global context, human rights, advocacy and localisation, there was a strong sense that collective challenges require collective responses.
