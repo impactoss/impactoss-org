@@ -1,5 +1,5 @@
 ---
-title: "Strengthening collaboration through local action"
+title: "IMPACT OSS at CID Conference: Strengthening collaboration through local action"
 subheadline: "CID Conference 2026, 9 – 10/9/2026"
 teaser: >-
   Our trustee Ronja Ievers attended the CID 2026 Conference in Wellington, where discussions on shrinking civic space, local leadership and collective action reinforced the potential of digital tools like IMPACT OSS to connect local efforts with broader human rights commitments.
